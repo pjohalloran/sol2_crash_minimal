@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+1b1b7feb4f4bfffc52d6381dc07ba940 /Users/pjohalloran/work/sol2_crash_minimal/luajit/src/host/buildvm_arch.h
+3fa5fb589e7ccc87080792261fc37815 lj_bcdef.h
+bcafafb9dc127a592ed68a6a6fe03ac8 lj_ffdef.h
+12e60d1001146769439a60919bd61383 lj_folddef.h
+785306881003cd30d02844406524e949 lj_libdef.h
+320844a6394affa44778ed9694403a55 lj_recdef.h
+c0d1e689ee1b081032378c11237eaf36 lj_vm.s
